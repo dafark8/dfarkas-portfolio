@@ -1,10 +1,10 @@
-#Welcome to the Portfolio of David Farkas
+# Welcome to the Portfolio of David Farkas
 # Who is David Farkas?  
 Strategic User Experience (UX) Leader with experience building and leading high-performing teams. Instrumental in expanding UX research within Cisco IT and Bright MLS. Currently with Capital One driving strategic growth, aligning with organizational objectives, and scaling through artificial intelligence (AI) and research enablement. 
 Recognized for recruiting top talent, mentorship, and promoting a culture of collaboration and continuous learning. Experienced with interdisciplinary teams, in-house, and with agencies. Comfortable navigating complex projects and delivering innovative solutions across sectors. Passionate about driving business growth and representing the organization at industry events.
 
 ## Quick Links
-[Case Study - Evangelizing and Scaling Research](Case-Study-1-Evangelizing-Scaling-Research/README.md) | [Case Study - Cross Functional Leadership](Case-Study-2-Cross-Functional-Leadership/README.md) | [Case Study 3]() | [Sample Gems](Sample-Gems/README.md)
+[Case Study - Evangelizing and Scaling Research](Case-Study-1-Evangelizing-Scaling-Research/README.md) | [Case Study - Cross Functional Leadership](Case-Study-2-Cross-Functional-Leadership/README.md) | [Sample Gems](Sample-Gems/README.md)
 
 ## Work History 
 <details>
