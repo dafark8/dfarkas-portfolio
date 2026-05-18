@@ -47,3 +47,6 @@ While I started as an AI skeptic, I have quickly become an advocate as I see the
 - Converse with researchers on refining quality research questions 
 - Crafting research needs into standard research approach documents 
 - and much more.  
+
+
+[Back Home](../README.md)
