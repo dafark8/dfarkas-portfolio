@@ -4,7 +4,7 @@ Strategic User Experience (UX) Leader with experience building and leading high-
 Recognized for recruiting top talent, mentorship, and promoting a culture of collaboration and continuous learning. Experienced with interdisciplinary teams, in-house, and with agencies. Comfortable navigating complex projects and delivering innovative solutions across sectors. Passionate about driving business growth and representing the organization at industry events.
 
 ## Quick Links
-[Case Study 1](Case-Study-1/README.md) | Case Study 2 | Case Study 3 | Gem Library
+[Case Study 1](Case-Study-1/README.md) | [Case Study 2]() | [Case Study 3]() | [Sample Gems](Sample-Gems/README.md)
 
 ## Work History 
 <details>
