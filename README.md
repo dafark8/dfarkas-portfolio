@@ -4,7 +4,7 @@ Strategic User Experience (UX) Leader with experience building and leading high-
 Recognized for recruiting top talent, mentorship, and promoting a culture of collaboration and continuous learning. Experienced with interdisciplinary teams, in-house, and with agencies. Comfortable navigating complex projects and delivering innovative solutions across sectors. Passionate about driving business growth and representing the organization at industry events.
 
 ## Quick Links
-[Case Study 1](Case-Study-1/README.md) | [Case Study 2]() | [Case Study 3]() | [Sample Gems](Sample-Gems/README.md)
+[Case Study - Evangelizing and Scaling Research](Case-Study-1-Evangelizing-Scaling-Research/README.md) | [Case Study - Cross Functional Leadership](Case-Study-2-Cross-Functional-Leadership/README.md) | [Case Study 3]() | [Sample Gems](Sample-Gems/README.md)
 
 ## Work History 
 <details>
@@ -107,11 +107,3 @@ PhillyCHI, Member, 2010 to Present; Officer 2011
 ## Education 
 - Bachelor of Fine Art (BFA) in Design, Carnegie Mellon University, Pittsburgh, PA
 - Bachelor of Science (BS) in Human Computer Interaction (HCI), Carnegie Mellon University, Pittsburgh, PA
-
-## Case Studies 
-### Case Study 1 
-
-### Case Study 2
-
-### Case Study 3 
-
