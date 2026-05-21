@@ -89,15 +89,15 @@ Additional Experience
 Leadership: Collaboration, Prioritization, Product Management, Product Strategy, Product Vision, Public Speaking, Staffing, Talent Development, Team Management UX Research & Strategy: Contextual Inquiry, Emerging Tech, Artificial Intelligence (AI, Gemini), Experience/Journey Maps, Heuristic Analysis, Information Architecture, JIRA, Mixed Methods, Personas, Research Analysis, Scaling Research, Service Design, Strategic Planning, Transformation Design, UX Research, UX Strategy, Workshop Facilitation
 
 ## Presentations & Publications 
-**Collaborative Improv**
+**[Collaborative Improv](https://collaborativeimprov.wordpress.com/)**
 <br> Published June 2019 
 <br>Presented: Free Workshops 2020-21, IAC 2020, DCUX 2019, AYCL Library(UIE), PixelUp 2019, PhillyCHI 2019
 
-**UX Research: Practical Techniques for Designing Better Products**
+**[UX Research: Practical Techniques for Designing Better Products](https://www.oreilly.com/library/view/ux-research/9781491951286/)**
 <br> Published November 2016, O’Reilly, Co-author Brad Nunnally 
 <br> Presented at: IA Summit 2018, Online webinars, Abstractions 2019
 
-**Heuristic Evaluations, Beyond the Academic Review** 2015 
+**[Heuristic Evaluations, Beyond the Academic Review](https://www.youtube.com/watch?v=DYH4KIvihZ0)** 2015 
 <br>Presented UXIFY 2015
 
 ## Activities & Organizations 
