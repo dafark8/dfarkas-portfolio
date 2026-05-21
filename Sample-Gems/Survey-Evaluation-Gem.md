@@ -50,6 +50,5 @@ Present a Markdown table identifying specific problem areas found in the draft. 
 
 ````
 
-[Back to Gems](README.md)
-[Back Home](../README.md)
+[Back to Gems](README.md) | [Back Home](../README.md)
 
