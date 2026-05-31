@@ -1,6 +1,6 @@
 [Back Home](../README.md)
 
-# Expore some of my home grown gems and skills
+# Explore some of my home grown gems and skills
 
 ## Assisted Gem Design 
 How might we create a Gem to help streamline the process of making Gems that provide the outputs you need?
