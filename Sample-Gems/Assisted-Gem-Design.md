@@ -6,10 +6,10 @@
 Understanding how to write agentically is difficult and often takes trial and error. How might we create a Gem to help streamline the process of making Gems that provide the outputs you need? 
 
 ## The Approach 
-I engaged with Gemini in a converastion to make a Gem that determines if something should be created as a Gemini Gem or a Claude skill. 
+I engaged with Gemini in a conversation to make a Gem that determines if something should be created as a Gemini Gem or a Claude skill. 
 
 ## Lessons 
-My experience is heavily weighted in Gemini, and I need to continue to refine the qualificiations of what makes a good Gemini Gem vs a Claude (or other agentic) workflow 
+My experience is heavily weighted in Gemini, and I need to continue to refine the qualifications of what makes a good Gemini Gem vs a Claude (or other agentic) workflow 
 
 ### Samples 
 I leveraged this to create my [Heuristic Evaluation Skill](Sample-Gems/Heuristic-Evaluation-Skill.md), [Survey Evaluation Gem](Sample-Gems/Survey-Evaluation-Gem.md), as well as my [Meal Prep Planner App]()
