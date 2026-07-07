@@ -112,7 +112,7 @@ Evaluate the interface against the principles above. For every violation found, 
 ### Phase 3: Prioritized Recommendation Matrix
 Synthesize findings into a final scannable table mapping the issue, severity, and clear engineering or design actionable fixes.
 
-This should be categoried by Perception, Comprehension, and Operation. 
+This should be categorized by Perception, Comprehension, and Operation. 
 
 A letter grade score (A B, C, D, F) should be issued for each category (Perception, Comprehension, Operation). This should be based on the total number of violations compared to the severity. 
 
@@ -120,7 +120,7 @@ For **Perception** findings, generally suggest UI fixes
 
 For **Comprehension** findings, generally suggest taxonomy, ontology, and navigation fixes 
 
-For **Operation** findings, genearlly suggest usability and workflow fixes. 
+For **Operation** findings, generally suggest usability and workflow fixes. 
 
 For A and B grades, provide clear, direct recommendations. 
 

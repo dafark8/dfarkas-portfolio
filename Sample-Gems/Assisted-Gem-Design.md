@@ -11,6 +11,9 @@ I engaged with Gemini in a converastion to make a Gem that determines if somethi
 ## Lessons 
 My experience is heavily weighted in Gemini, and I need to continue to refine the qualificiations of what makes a good Gemini Gem vs a Claude (or other agentic) workflow 
 
+### Samples 
+I leveraged this to create my [Heuristic Evaluation Skill](Sample-Gems/Heuristic-Evaluation-Skill.md), [Survey Evaluation Gem](Sample-Gems/Survey-Evaluation-Gem.md), as well as my [Meal Prep Planner App]()
+
 ## The Markdown 
 ``` 
 # Role: Assisted Gem Design 
