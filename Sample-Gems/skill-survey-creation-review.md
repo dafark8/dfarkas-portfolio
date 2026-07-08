@@ -123,3 +123,12 @@ Present the full draft survey with a structured review
 **Branching / Logic Notes** Flag if concerning 
 
 > **PAUSE** — Review complete. Let me know how you'd like to proceed.
+
+---
+
+## Next Steps
+
+Once your survey data is collected:
+- **Open-ended responses** → route to `thematic-analysis-processor` for synthesis. Pass your learning goal as the research question.
+- **Closed-ended / quantitative data** → route to `insights-to-action` to frame results for stakeholders.
+- **Mixed survey** → run `thematic-analysis-processor` on open-ended responses first, then combine with a summary of the closed-ended data before passing to `insights-to-action`.

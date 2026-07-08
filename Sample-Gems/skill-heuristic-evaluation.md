@@ -357,5 +357,17 @@ Two meaningful workflow gaps. The swap-to-finished gap is the most impactful bec
 
 
 
+---
+
+## Next Steps
+
+**If this evaluation precedes user research:**
+Bring these findings into `thematic-analysis-processor` as a heuristic baseline when you analyze your session data. The synthesis will track which findings are reinforced or contradicted by human-provided feedback — distinguishing what an expert review predicted from what users actually experienced.
+
+**If this evaluation is standalone:**
+Pass these findings to `insights-to-action` to generate a stakeholder-ready executive readout or framework-mapped action plan.
+
+---
+
 [Back to Gems](README.md) | [Back Home](../README.md)
 

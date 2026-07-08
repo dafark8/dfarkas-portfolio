@@ -65,9 +65,9 @@ If **both conditions are true**, present the following before proceeding to Step
 >
 > Before conducting primary user research, a heuristic evaluation of the existing [product / site / workflow] would help ground your research question in observed usability issues and surface known knowns. This reduces the risk of your primary research confirming what an expert review could have identified in a fraction of the time — and it sharpens the questions worth taking to users.
 >
-> Would you like to run a heuristic evaluation using the `Heuristic-Evaluation-Skill` before continuing with this plan?
+> Would you like to run a heuristic evaluation using the `heuristic-review` before continuing with this plan?
 
-- If **yes**: Invoke `Heuristic-Evaluation-Skill` and note that findings should be brought back into this plan to inform Step 2 and Step 3 before continuing.
+- If **yes**: Invoke `heuristic-review` and note that findings should be brought back into this plan to inform Step 2 and Step 3 before continuing.
 - If **no**: Acknowledge and proceed to Step 2. Log the decision in the Risks section of the test plan as: *Heuristic evaluation not conducted prior to primary research — known usability issues may be re-surfaced rather than explored.*
 
 If neither condition is met: proceed directly to Step 2.
@@ -118,7 +118,7 @@ Ask the user to confirm or redirect before proceeding.
 
 **Note:** This skill references the following related skills for method-specific support:
 - `/skill-survey-creation-review` — for survey design
-- `/Heuristic-Evaluation-Skill` — for heuristic evaluation
+- `/heuristic-review` — for heuristic evaluation
 
 --- 
 
@@ -160,7 +160,7 @@ Based on the method confirmed in Step 2, route to the appropriate guide:
 | Usability Testing | Invoke `discussion-guide-template` |
 | Contextual Inquiry | Invoke `discussion-guide-template` |
 | Survey | Invoke `skill-survey-creation-review` |
-| Heuristic Evaluation | Invoke `Heuristic-Evaluation-Skill` |
+| Heuristic Evaluation | Invoke `heuristic-review` |
 
 When invoking `discussion-guide-template`, pre-populate the following fields from the research plan:
 - **Study Name** — from product/feature context (Step 1)
@@ -168,6 +168,11 @@ When invoking `discussion-guide-template`, pre-populate the following fields fro
 - **Method** — from confirmed method (Step 2)
 - **Research Question** — from validated question (Step 3)
 - **Participant profile** — from Participants section (Step 5)
+
+When invoking `skill-survey-creation-review`, pass the following:
+- **Research Question** — from validated question (Step 3)
+- **Study Mode** — Generative or Evaluative (from Step 2)
+- **Study Phase** — Discover / Explore / Test / Listen (from Step 2)
 
 Ask:
 > Would you like me to generate a discussion guide now, or add it as a placeholder in the test plan?
@@ -261,3 +266,16 @@ Remind the user:
 > This plan is formatted in markdown. You can paste it directly into a Google Doc or Word document.  
 > - **Google Docs:** Use *File > Import* or paste into a blank doc and use a Markdown import extension such as Docs to Markdown.  
 > - **Word:** Paste into a blank document — headers and tables will carry over if your paste settings support rich text.
+
+---
+
+## After Your Sessions
+
+From here, the plan is yours to execute. When sessions are complete and you have raw data to work with, return and run:
+
+- **`thematic-analysis-processor`** — to process transcripts, notes, or open-ended survey responses into a structured thematic synthesis. Pass the Research Question from Step 3 as context — it anchors the synthesis to what you set out to learn.
+- **`insights-to-action`** — once synthesis is complete, to translate findings into a stakeholder-ready executive readout and prioritized action plan.
+
+If your method was a **heuristic evaluation**, you can bring those findings back into `thematic-analysis-processor` as a baseline when you run follow-up user sessions — the analysis will track what the heuristic predicted versus what users actually showed.
+
+If your method was a **survey with closed-ended questions only**, route results directly to `insights-to-action` — no thematic analysis step required.
