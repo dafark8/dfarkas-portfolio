@@ -19,9 +19,15 @@ How might we create a gem that catches the common "gotchas" of survey generation
 ### Heuristic Evaluation Skill 
 What does a streamlined Heuristic evaluation look like? 
 
-[See Skill](Heuristic-Evaluation-Skill.md)
+[See Skill](skill-heuristic-evaluation.md)
 
 ### Survey Creation and Review Skill
 Assisted design to create or review UX research surveys 
 
 [See Skill](skill-survey-creation-review.md)
+
+### Research Plan Generator 
+Create a robust research plan leveraging industry practices and exporting starter documentation including a research plan, discussion guide, and survey - leveraging other skills as well. 
+
+[See Skill](skill-research-plan.md)
+[See Discussion Guide Template](discussion-guide-template.md)
