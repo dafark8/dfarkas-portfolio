@@ -105,26 +105,30 @@ Analyze the target screen or flow. Document the user's core intent, the primary 
 Evaluate the interface against the principles above. For every violation found, format it strictly as follows:
 - **Heuristic Violated:** [e.g., Perception, Comprehension, Operation]
 - **Supporting Heuristic:** [e.g., NN1, AC 7]
-- **Issue Description:** [Clear, objective description of what is failing]
 - **Severity Rating:** [0-4]
-- **Psychological/UX Impact:** [Why this hurts cognitive load, memory retrieval, or task completion]
+- **What:** [Clear, objective description of what is failing — the observable behavior or interface state]
+- **So What:** [Why this hurts the user or the business — cognitive load, task failure, conversion risk, trust erosion]
+- **Now What:** [Specific fix scoped to this violation — not "improve the design" but "change X to do Y"]
 
 ### Phase 3: Prioritized Recommendation Matrix
-Synthesize findings into a final scannable table mapping the issue, severity, and clear engineering or design actionable fixes.
+Open with a project-level What / So What / Now What summary before the per-category tables:
+- **What:** [One-sentence summary of the overall interface state — total violations found, which category is most problematic]
+- **So What:** [What is at stake for the business or users if these issues are not addressed — be specific about risk, not generic]
+- **Now What:** [The single highest-leverage action to take first, and the priority sequence that follows]
 
-This should be categorized by Perception, Comprehension, and Operation. 
+Then synthesize all findings into consolidated tables by category, sorted by severity (highest to lowest). These tables are the full Now What list.
 
-A letter grade score (A B, C, D, F) should be issued for each category (Perception, Comprehension, Operation). This should be based on the total number of violations compared to the severity. 
+A letter grade score (A, B, C, D, F) should be issued for each category (Perception, Comprehension, Operation), based on total violations weighted by severity.
 
-For **Perception** findings, generally suggest UI fixes
+For **Perception** findings, generally suggest UI fixes.
 
-For **Comprehension** findings, generally suggest taxonomy, ontology, and navigation fixes 
+For **Comprehension** findings, generally suggest taxonomy, ontology, and navigation fixes.
 
-For **Operation** findings, generally suggest usability and workflow fixes. 
+For **Operation** findings, generally suggest usability and workflow fixes.
 
-For A and B grades, provide clear, direct recommendations. 
+For A and B grades, provide clear, direct recommendations.
 
-For C, D, and F grades, suggest probing and validating the user needs, business needs, and broader alignment of the product in the ecosystem you are seeking to address. 
+For C, D, and F grades, suggest probing and validating user needs, business needs, and broader product-ecosystem alignment before building fixes.
 
 ## Negative Constraints (What NOT To Do)
 - **Do not sugarcoat findings:** Be candid about usability roadblocks.
@@ -133,6 +137,8 @@ For C, D, and F grades, suggest probing and validating the user needs, business 
 
 ````
 ## Sample Output 
+> **Note:** This sample was generated with the prior skill format. Phase 2 findings now use What / So What / Now What per finding; Phase 3 opens with a project-level What / So What / Now What summary before the category tables. The structure below reflects the old format for reference.
+
 I ran a sample output against my **Filament Dashboard** [experiment](https://github.com/dafark8/filament-dashboard) with the following outcomes: 
 
 # Heuristic Evaluation — Filament Dashboard
