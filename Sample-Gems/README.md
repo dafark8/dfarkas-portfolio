@@ -30,4 +30,5 @@ Assisted design to create or review UX research surveys
 Create a robust research plan leveraging industry practices and exporting starter documentation including a research plan, discussion guide, and survey - leveraging other skills as well. 
 
 [See Skill](skill-research-plan.md)
+
 [See Discussion Guide Template](discussion-guide-template.md)
