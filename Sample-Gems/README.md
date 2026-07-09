@@ -26,9 +26,14 @@ Assisted design to create or review UX research surveys
 
 [See Skill](skill-survey-creation-review.md)
 
+### Qual-Quant Triangulator 
+Fuses analytics with human behavior. The user inputs quantitative data (e.g., "We have a 45% drop-off at Step 3 of this funnel") and the skill generates qualitative hypotheses and recommended research methods (like unmoderated usability tasks) to uncover the why behind the what. Integrates down stream to inform research studies. 
+
+[See Skill](skill-quant-qual-triangulator.md
+
 ### Research Plan Generator 
 Create a robust research plan leveraging industry practices and exporting starter documentation including a research plan, discussion guide, and survey - leveraging other skills as well. 
 
 [See Skill](skill-research-plan.md)
 
-[See Discussion Guide Template](discussion-guide-template.md)
+[See Discussion Guide Template](discussion-guide-template.md))
