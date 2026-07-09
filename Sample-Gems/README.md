@@ -41,7 +41,7 @@ Create a robust research plan leveraging industry practices and exporting starte
 ### Thematic Analysis
 Ingests raw session transcripts or observation notes and structures them into a thematic matrix. It would look for behavioral patterns, categorize quotes by sentiment, and map findings back to the original "Big Unknown."
 
-
+[See Skill](skill-thematic-analysis-processor.md)
 
 ### Insights to Action
 Translates coded themes into executive-level readouts. It forces the output into a specific framework (e.g., Observation → Insight → Recommended Action), ensuring research isn't just a PDF of interesting facts, but a driver for design and engineering decisions.
