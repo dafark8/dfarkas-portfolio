@@ -34,7 +34,9 @@ Announce:
 > 5. **Goals** - What will stakeholders and the team do with this information? 
 > 6. **Existing Research & Artifacts** - Do you have any prior research, analytics data, personas, journey maps, competitive analysis, or other artifacts related to this product or domain? If so, please share or describe them.
 
-Wait for response. If provided via arguments, extract answers from that context and confirm. 
+Wait for response. If provided via arguments, extract answers from that context and confirm.
+
+> **Arriving from `quant-qual-triangulator`?** If you have a `Triangulated Core Inputs` handoff block, paste it here instead of answering the questions above. The Big Unknown maps to Q3, the hypothesis maps to Q4, and the proposed method seeds Step 2 — you can skip straight to research question validation.
 
 ---
 
@@ -117,8 +119,8 @@ Identify and present:
 Ask the user to confirm or redirect before proceeding.
 
 **Note:** This skill references the following related skills for method-specific support:
-- `/skill-survey-creation-review` — for survey design
-- `/heuristic-review` — for heuristic evaluation
+- `skill-survey-creation-review` — for survey design
+- `heuristic-review` — for heuristic evaluation
 
 --- 
 
