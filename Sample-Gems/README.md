@@ -19,6 +19,8 @@ How might we create a gem that catches the common "gotchas" of survey generation
 ### Heuristic Evaluation Skill 
 What does a streamlined Heuristic evaluation look like? 
 
+[Sample Output from Filament Dashboard](https://htmlpreview.github.io/?https://github.com/dafark8/filament-dashboard/blob/main/filament-dashboard-heuristic-report.html) 
+
 [See Skill](skill-heuristic-evaluation.md)
 
 ### Survey Creation and Review Skill
