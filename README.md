@@ -91,7 +91,8 @@ Leadership: Collaboration, Prioritization, Product Management, Product Strategy,
 ## Presentations & Publications 
 **[Sensemaking Community History](https://www.thesensemakersclub.com/discussion-groups)** 
 July 2026 - Present
-A series of interviews capturing the oral history of sensemaking through specialist communities. 
+
+Cohost interviews capturing the oral history of sensemaking through specialist communities. 
 - [Argus Associates](https://www.youtube.com/watch?v=pc7pw2mLF7c) 
 
 **[Collaborative Improv](https://collaborativeimprov.wordpress.com/)**
