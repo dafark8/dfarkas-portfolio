@@ -89,6 +89,11 @@ Additional Experience
 Leadership: Collaboration, Prioritization, Product Management, Product Strategy, Product Vision, Public Speaking, Staffing, Talent Development, Team Management UX Research & Strategy: Contextual Inquiry, Emerging Tech, Artificial Intelligence (AI, Gemini), Experience/Journey Maps, Heuristic Analysis, Information Architecture, JIRA, Mixed Methods, Personas, Research Analysis, Scaling Research, Service Design, Strategic Planning, Transformation Design, UX Research, UX Strategy, Workshop Facilitation
 
 ## Presentations & Publications 
+**[Sensemaking Community History](https://www.thesensemakersclub.com/discussion-groups)** 
+July 2026 - Present
+A series of interviews capturing the oral history of sensemaking through specialist communities. 
+- [Argus Associates](https://www.youtube.com/watch?v=pc7pw2mLF7c) 
+
 **[Collaborative Improv](https://collaborativeimprov.wordpress.com/)**
 <br> Published June 2019 
 <br>Presented: Free Workshops 2020-21, IAC 2020, DCUX 2019, AYCL Library(UIE), PixelUp 2019, PhillyCHI 2019
