@@ -16,11 +16,13 @@ Recognized for recruiting top talent, mentorship, and promoting a culture of col
 <br> Financial Services organization, embedded in Developer Experience</summary>
 
 - David focusses on cross platform relationships, identifying and illustrating unmet customer meeds, and making connections not just on product requirements but the business strategy and impact of decisions. This includes:
-- Leads team of three UX Researchers focussed on internal developer experience (DevX) tools and workflows supporting 20+ designers across 5 product pillars including CICD, testing, artificial intelligence (AI)
+- Leads team of UX Researchers focussed on internal developer experience (DevX) tools and workflows supporting 20+ designers across 5 product pillars including CICD, testing, artificial intelligence (AI)
 - Standardized coaching, office hours, and democratization within DevX leading to an average of three consultations per week and empowering designers to execute evaluative research independently. 
 - Implemented scalable research frameworks for pilot studies and longitudinal advisory boards, streamlining research-operations and ongoing, iterative feedback mechanisms. 
 - Collaborated in research-vendor identification and informed ResOps practices and standards. 
 - Planned and executed qualitative research to uncover authoring and discovery needs around knowledge management informing a formal Jobs to be Done (JTBD) study following Strategyn’s playbook. 
+- Partners with AIML and eData research and product partners on shared understanding of user needs. 
+- Accelerated standardization of research outputs, streamlining heuristic analysis and retrieval with support of Claude Code via organization, team, and custom skills. 
 </details>
 
 <details>
@@ -89,7 +91,7 @@ Additional Experience
 </details>
 
 ## Key Strengths & Skills
-Leadership: Collaboration, Prioritization, Product Management, Product Strategy, Product Vision, Public Speaking, Staffing, Talent Development, Team Management UX Research & Strategy: Contextual Inquiry, Emerging Tech, Artificial Intelligence (AI, Gemini), Experience/Journey Maps, Heuristic Analysis, Information Architecture, JIRA, Mixed Methods, Personas, Research Analysis, Scaling Research, Service Design, Strategic Planning, Transformation Design, UX Research, UX Strategy, Workshop Facilitation
+Leadership: Collaboration, Prioritization, Product Management, Product Strategy, Product Vision, Public Speaking, Staffing, Talent Development, Team Management UX Research & Strategy: Contextual Inquiry, Emerging Tech, Artificial Intelligence (AI, Gemini, Claude Code), Experience/Journey Maps, Heuristic Analysis, Information Architecture, JIRA, Mixed Methods, Personas, Research Analysis, Scaling Research, Service Design, Strategic Planning, Transformation Design, UX Research, UX Strategy, Workshop Facilitation
 
 ## Presentations & Publications 
 **[Sensemaking Community History](https://www.thesensemakersclub.com/discussion-groups)** 
