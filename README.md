@@ -91,7 +91,9 @@ Additional Experience
 </details>
 
 ## Key Strengths & Skills
-Leadership: Collaboration, Prioritization, Product Management, Product Strategy, Product Vision, Public Speaking, Staffing, Talent Development, Team Management UX Research & Strategy: Contextual Inquiry, Emerging Tech, Artificial Intelligence (AI, Gemini, Claude Code), Experience/Journey Maps, Heuristic Analysis, Information Architecture, JIRA, Mixed Methods, Personas, Research Analysis, Scaling Research, Service Design, Strategic Planning, Transformation Design, UX Research, UX Strategy, Workshop Facilitation
+**Leadership:** Collaboration, Prioritization, Product Management, Product Strategy, Product Vision, Public Speaking, Staffing, Talent Development, Team Management 
+
+**UX Research & Strategy:** Contextual Inquiry, Emerging Tech, Artificial Intelligence (AI, Gemini, Claude Code), Experience/Journey Maps, Heuristic Analysis, Information Architecture, JIRA, Jobs to Be Done (JTBD), Mixed Methods, Personas, Research Analysis, Scaling Research, Service Design, Strategic Planning, Transformation Design, UX Research, UX Strategy, Workshop Facilitation
 
 ## Presentations & Publications 
 **[Sensemaking Community History](https://www.thesensemakersclub.com/discussion-groups)** 
