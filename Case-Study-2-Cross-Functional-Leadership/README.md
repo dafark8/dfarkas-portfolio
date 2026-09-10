@@ -1,6 +1,6 @@
 [Back Home](../README.md)
 
-# Evangelizing and Scaling Research
+# Cross-Functional Leadership
 
 ## Executive Summary 
 Across my career, I have joined teams either immediately prior to after a significant org change. At **Groundswell** I worked with UX leadership to craft intentional UX Research applications as part of our responses to federal RFPs for work. At **Cisco** I had the opportunity to build a dedicated research team after a significant reorg. At **Bright MLS** I shifted and scaled the team from "pushing pixels" to clarifying intent. And at **Capital One** I supported scaling the research team within the Developer Experience pillar while connecting knowledge around data and artificial intelligence teams as well as scaling understanding across multiple platform teams. 
