@@ -96,7 +96,7 @@ Additional Experience
 **UX Research & Strategy:** Contextual Inquiry, Emerging Tech, Artificial Intelligence (AI, Gemini, Claude Code), Experience/Journey Maps, Heuristic Analysis, Information Architecture, JIRA, Jobs to Be Done (JTBD), Mixed Methods, Personas, Research Analysis, Scaling Research, Service Design, Strategic Planning, Transformation Design, UX Research, UX Strategy, Workshop Facilitation
 
 ## Presentations & Publications 
-**[Sensemaking Community History](https://www.thesensemakersclub.com/discussion-groups)** 
+**[Sensemaking Community History](https://www.thesensemakersclub.com/sensemaking-community-history)** 
 July 2026 - Present
 
 Cohost interviews capturing the oral history of sensemaking through specialist communities. 
