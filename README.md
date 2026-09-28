@@ -52,7 +52,7 @@ Empowered 100% of designers to conduct evaluative research, resulting in a 50% i
 </details>
 
 <details>
-<summary>GROUNDSWELL (formerly CollabraLink Technologies), RemoteUX Research Director
+<summary>GROUNDSWELL (formerly CollabraLink Technologies), Remote, UX Research Director
 <br>  06/2020 to 05/2022
 <br> Government contractor 
  </summary>
