@@ -116,8 +116,9 @@ Cohost interviews capturing the oral history of sensemaking through specialist c
 <br>Presented UXIFY 2015
 
 ## Activities & Organizations 
-IxDA, Member, 2007 to 2024 | IA Summit, Volunteer, 2012 and 2014
-PhillyCHI, Member, 2010 to Present; Officer 2011
+- IxDA, Member, 2007 to 2024 
+- IA Summit, Volunteer, 2012 and 2014
+- PhillyCHI, Member, 2010 to Present; Officer 2011
 
 ## Education 
 - Bachelor of Fine Art (BFA) in Design, Carnegie Mellon University, Pittsburgh, PA
