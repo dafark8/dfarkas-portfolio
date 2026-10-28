@@ -103,6 +103,7 @@ Cohost interviews capturing the oral history of sensemaking through specialist c
 - [IA Community History: Argus Associates](https://www.youtube.com/watch?v=pc7pw2mLF7c) 
 - [Formalizing the community: The Birth of the IA Institute](https://www.youtube.com/watch?v=Utvvbcfy3XU) 
 - [Steering the Movement: Spotlight on early IA Leadership](https://www.youtube.com/watch?v=-onmB3Wp5RI)
+- [A Community in Transition: IAI ends and World IA day begins](https://www.youtube.com/watch?v=f7jkU-rEefk)
 
 **[Collaborative Improv](https://collaborativeimprov.wordpress.com/)**
 <br> Published June 2019 
