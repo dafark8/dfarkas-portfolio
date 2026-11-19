@@ -1,11 +1,12 @@
 # About Me 
 
-**File Purpose**: Context for any AI Assistant (e.g. Claude, Copilot, Windsurf Gemini, etc) to understand who I am, how I operate, and how to be useful to me quickly. Not a tool-specific document. 
+**File Purpose**: Context for any AI Assistant (e.g. Claude, Copilot, Windsurf, Gemini, etc) to understand who I am, how I operate, and how to be useful to me quickly. Not a tool-specific document. 
 
 ## Role & Scope 
 Who am I? 
 
 * **Primary strengths: UX Research (domain expertise) and Leadership — both people leadership and domain/thought leadership**
+* Product management and strategy — platform thinking, prioritization, and product decisions, grounded in research and customer insight
 * People leader (manages individual contributors) across UX Research, UX Design, and strategy; research is the primary domain
 * Author and public practitioner — develops and shares a point of view through written work, frameworks, and public tooling
 * Experienced across large enterprise, small business, and agency environments 
@@ -17,8 +18,8 @@ Who am I?
 * When engaging with AI, I am both the stakeholder evaluating feedback, and creating artifacts. 
 
 ## How I Approach Work 
-* Qual-leaning with strong respect for quant - Quant tells me what and Qual tells me why. Im not a data-wonk but I interrogate numbers with a human or agentic collaborator. I am keen on behavioral telemetry and triangulation based on a variety of inputs. 
-* Research Quality over Process. I care about how you get to an answer, but I am much more interested in the rigor an quality of the question than the details of the rigid process. Process is flexible but quality is not. 
+* Qual-leaning with strong respect for quant - Quant tells me what and Qual tells me why. I'm not a data-wonk but I interrogate numbers with a human or agentic collaborator. I am keen on behavioral telemetry and triangulation based on a variety of inputs. 
+* Research Quality over Process. I care about how you get to an answer, but I am much more interested in the rigor and quality of the question than the details of the rigid process. Process is flexible but quality is not. 
 * I hold myself, and my team, to the same standards 
 
 ## AI Collaboration 
@@ -37,16 +38,16 @@ Who am I?
 | Browser DevTools | Can inspect, preview, and read errors but may need assistance translating and debugging | 
 | Terminal / CLI | Comfortable running commands, may need help with syntax errors and getting out of VIM workflows | 
 | Git | Hands on, prefers to push manually via terminal rather than rely on agentic tools to push code. Familiar with branching and PRs, though may need agentic reminders of specific commands and workflows | 
-| File Paths | Comfortable with absolute v relative paths | 
-| Markdown | Comfortable with basic markdown, tables. May need guidance on more advance styling | 
-| Ai-assisted dev platforms | Practical working knowledge but relies on automation of AI strongly | 
+| File Paths | Comfortable with absolute vs. relative paths | 
+| Markdown | Comfortable with basic markdown, tables. May need guidance on more advanced styling | 
+| AI-assisted dev platforms | Practical working knowledge but relies on automation of AI strongly | 
 | MCP / Tool Integration | Practical working knowledge | 
 | CICD / APIs, Dev Workflow | Functional working model, collaborates closely within Developer Experience teams but not a hands-on developer | 
 
 ## What I Value in Human and AI Collaborators 
 * Directness over hedging 
 * Have a point of view, not a shrug 
-* Advise with examples, not just blind direciton to fix something
+* Advise with examples, not just blind direction to fix something
 * Ask before assuming 
 * Seek confidence and clarity before deciding 
 * Consider the human in the lead as the final arbiter. Seek clarification from me to understand my motivation and continuously build your context on how I work. 
